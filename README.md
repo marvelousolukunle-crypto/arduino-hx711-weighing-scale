@@ -8,9 +8,9 @@ A professional-grade digital weighing scale built with an Arduino Uno, HX711 loa
 
 ## 📸 image
 
-<p align="center">
-  <img src="images/Front view.png" alt="Front View" width="500">
-</p>
+![Front View of Weighing Scale](images/Front view.png)
+
+![Side View of Weighing Scale](images/side view.png)
 
 ---
 
