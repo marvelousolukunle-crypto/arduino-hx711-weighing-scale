@@ -9,7 +9,7 @@ A professional-grade digital weighing scale built with an Arduino Uno, HX711 loa
 ## 📸 image
 
 <!-- Standard Layout Fix -->
-![Front View](images/Front%20view.png)
+![Front View](images/Front%20vew.png)
 
 ---
 
@@ -167,10 +167,15 @@ WeighingScale/
 
 ## 👨‍💻 Author
 
-**MCE Group 2**
+## ✍️ Author
+* **Your Name** ([@your-username](https://github.com)) — Core Code & System Integration
+
+## 🤝 Acknowledgments
+* Commissioned by MCE Group 2 for their embedded systems project.
 
 ---
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
