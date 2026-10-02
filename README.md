@@ -168,7 +168,7 @@ WeighingScale/
 ## 👨‍💻 Author
 
 ## ✍️ Author
-* **Your Name** ([@marvelousolukunle-crypto](https://github.com)) — Core Code & System Integration
+* **Olukunle Marvelous** ([@marvelousolukunle-crypto](https://github.com)) — Core Code & System Integration
 
 ## 🤝 Acknowledgments
 * Commissioned by MCE Group 2 for their embedded systems project.
